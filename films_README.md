@@ -79,9 +79,10 @@ Future analysis would include the budget spent of the films to see the success o
 Describe the structure of your repository and its contents, for example:
 
 ```
+├── images                              <- Both sourced externally and generated from code
+├── data                                <- Both sourced externally and generated from code
+├── MICROSOFT MOVIE STUDIO ANALYSIS.pdf         <- PDF version of project presentatio
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── MICROSOFT MOVIE STUDIO ANALYSIS.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+
 ```
